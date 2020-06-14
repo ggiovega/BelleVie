@@ -43,11 +43,11 @@ body :-ms-input-placeholder {
 } */
 
 .wrapper {
-  background: rgba(243, 18, 75, 0.5);
-  background: -webkit-linear-gradient(top left, rgba(243, 18, 75, 0.5) 0%, rgba(255, 44, 90, 0.5) 100%);
-  background: -moz-linear-gradient(top left, rgba(243, 18, 75, 0.5) 0%, rgba(255, 44, 90, 0.5) 100%);
-  background: -o-linear-gradient(top left, rgba(243, 18, 75, 0.5) 0%, rgba(255, 44, 90, 0.5) 100%);
-  background: linear-gradient(to bottom right, rgba(243, 18, 75, 0.5) 0%, rgba(255, 44, 90, 0.5) 100%);
+  background: rgba(228, 3, 59, 0.979);
+  background: -webkit-linear-gradient(top left, rgba(228, 3, 59, 0.979) 0%, rgba(255, 44, 90, 0.5) 100%);
+  background: -moz-linear-gradient(top left, rgba(228, 3, 59, 0.979) 0%, rgba(255, 44, 90, 0.5) 100%);
+  background: -o-linear-gradient(top left, rgba(228, 3, 59, 0.979) 0%, rgba(255, 44, 90, 0.5) 100%);
+  background: linear-gradient(to bottom right, rgba(228, 3, 59, 0.979) 0%, rgba(255, 44, 90, 0.5) 100%);
   /* position: absolute; */
   /* top: 50%; */
   left: 0;
